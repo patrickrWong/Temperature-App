@@ -1,0 +1,21 @@
+.jumbotron{
+    margin-top: 60px;
+}
+
+.result{
+    width: 70%;
+    min-width: 50%;
+}
+
+.card-city{
+    padding-top: 5px;
+}
+
+.card-subtitle > div{
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+#content{
+    display: none;
+}
